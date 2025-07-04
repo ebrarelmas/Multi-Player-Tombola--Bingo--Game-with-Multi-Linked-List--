@@ -6,11 +6,7 @@ package proje1_data;
 
 import java.util.*;
 
-/**
- *
- * @author Ebrar Yıldız
- * ebrarelmas.yildiz@stu.fsm.edu.tr-2121221011
- */
+
 public class EbrarElmasYildiz_Main {
 
     public static void main(String[] args) {
