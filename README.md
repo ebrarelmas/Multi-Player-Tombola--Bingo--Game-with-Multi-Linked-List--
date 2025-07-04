@@ -4,6 +4,7 @@ of chance played with numbered cards. The game involves randomly selecting numbe
 marking off those numbers on their cards if they match the ones called.
 
 APPLICATION DETAILS 
+
 The game is played with two players. Each player has a tombola card with 15 numbers, each of which 
 is arranged in three rows. There are 5 numbers in each horizontal row and the remaining 4 boxes are 
 randomly blocked out.  
