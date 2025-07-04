@@ -6,10 +6,7 @@ package proje1_data;
 
 import java.util.Random;
 
-/**
- *
- * @author Ebrar Yıldız ebrarelmas.yildiz@stu.fsm.edu.tr-2121221011
- */
+
 /*
  This class represents a Multi-Linked List.
  It contains nodes with both 'next' and 'down' pointers, forming a matrix-like structure.
