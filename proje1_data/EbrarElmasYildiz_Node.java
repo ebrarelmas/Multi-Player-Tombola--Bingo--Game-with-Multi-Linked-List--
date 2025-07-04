@@ -4,11 +4,7 @@
  */
 package proje1_data;
 
-/**
- *
- * @author Ebrar Yıldız
- * ebrarelmas.yildiz@stu.fsm.edu.tr-2121221011
- */
+
 // This class represents the nodes in a multi-linked list.
 //Each node holds a data item and has forward and downward pointers.
 
